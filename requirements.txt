@@ -11,7 +11,7 @@ chardet==2.3.0
 colorama==0.3.2
 cryptography==1.4
 cssselect==0.9.1
-ecdsa==0.11
+ecdsa==0.13.3
 enum34==1.1.6
 euca2ools==3.1.0
 html2text==2016.5.29
