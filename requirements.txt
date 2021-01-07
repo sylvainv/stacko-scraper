@@ -18,7 +18,7 @@ html2text==2016.5.29
 html5lib==0.999
 idna==2.1
 ipaddress==1.0.16
-lxml==3.4.0
+lxml==4.6.2
 paramiko==1.15.1
 parsel==1.0.2
 pyOpenSSL==16.0.0
