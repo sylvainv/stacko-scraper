@@ -2,7 +2,7 @@ PyDispatcher==2.0.5
 PyGreSQL==5.0
 PyYAML==3.11
 Scrapy==1.1.0
-Twisted==16.2.0
+Twisted==22.2.0
 argparse==1.2.1
 attrs==16.0.0
 boto==2.34.0
